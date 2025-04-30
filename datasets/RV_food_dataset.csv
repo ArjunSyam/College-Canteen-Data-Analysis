@@ -1,0 +1,158 @@
+,Timestamp,Are You From RVU or RVCE,Gender,Veg/Non Veg,Prefered cuisine,Go to Beverage,Mingos Rating,Thoda Aur Rating,How much you spend on average breakfast/snacks daily,How much  you spend on lunch daily,Average waiting time(minutes)
+0,18/12/2023 21:21:11,RVU,Female,Non Veg,North Indian,Chia seed juice,4,5,20,60,7
+1,18/12/2023 21:23:03,RVU,Male,Non Veg,Biryani,Aerated beverages,4,5,50,160,9
+2,18/12/2023 21:23:20,RVU,Male,Non Veg,Biryani,Fruit juice,3,3,80,80,12
+3,18/12/2023 21:29:11,RVU,Male,Non Veg,Biryani,Aerated beverages,5,5,190,320,6
+4,18/12/2023 21:30:40,RVU,Male,Non Veg,Chinese,Energy drinks,5,5,80,90,8
+5,18/12/2023 21:30:58,RVU,Male,Non Veg,South Indian,Energy drinks,3,4,40,50,15
+6,18/12/2023 21:31:04,RVU,Male,Veg,South Indian,Tea/coffee,5,5,20,70,4
+7,18/12/2023 21:31:05,RVU,Male,Non Veg,Biryani,Fruit juice,1,3,130,130,6
+8,18/12/2023 21:31:07,RVU,Male,Veg,South Indian,Tea/coffee,3,3,40,70,14
+9,18/12/2023 21:31:10,RVU,Male,Non Veg,Biryani,Aerated beverages,3,3,80,250,17
+10,18/12/2023 21:31:47,RVU,Female,Veg,North Indian,Fruit juice,3,3,30,60,5
+11,18/12/2023 21:31:50,RVU,Male,Non Veg,South Indian,Energy drinks,3,3,150,170,15
+12,18/12/2023 21:32:08,RVU,Male,Veg,North Indian,Aerated beverages,1,1,180,250,20
+13,18/12/2023 21:32:59,RVU,Male,Veg,North Indian,Tea/coffee,4,3,20,190,19
+14,18/12/2023 21:33:15,RVCE,Male,Non Veg,North Indian,Energy drinks,3,3,20,60,6
+15,18/12/2023 21:33:58,RVCE,Male,Non Veg,North Indian,Chia seed juice,5,5,20,50,16
+16,18/12/2023 21:33:59,RVCE,Female,Non Veg,Biryani,Tea/coffee,5,5,30,160,8
+17,18/12/2023 21:34:02,RVCE,Male,Veg,Chaats,Aerated beverages,4,3,30,60,4
+18,18/12/2023 21:34:09,RVCE,Male,Non Veg,North Indian,Aerated beverages,5,2,70,120,10
+19,18/12/2023 21:34:18,RVU,Male,Veg,Fast food,Chia seed juice,3,3,20,170,10
+20,18/12/2023 21:35:36,RVCE,Female,Veg,Chaats,Tea/coffee,5,5,30,50,5
+21,18/12/2023 21:36:32,RVU,Female,Non Veg,Biryani,Fruit juice,4,1,50,50,5
+22,18/12/2023 21:36:33,RVU,Male,Non Veg,Biryani,Fruit juice,3,2,50,70,9
+23,18/12/2023 21:36:37,RVU,Male,Veg,North Indian,Chia seed juice,3,4,40,80,7
+24,18/12/2023 21:37:52,RVU,Male,Non Veg,South Indian,Chia seed juice,4,5,80,60,9
+25,18/12/2023 21:38:11,RVU,Male,Non Veg,South Indian,Fruit juice,4,3,70,120,7
+26,18/12/2023 21:38:13,RVU,Female,Veg,Chaats,Fruit juice,4,1,70,70,4
+27,18/12/2023 21:38:59,RVCE,Female,Veg,Fast food,Tea/coffee,3,4,30,50,8
+28,18/12/2023 21:39:09,RVU,Male,Non Veg,Biryani,Aerated beverages,3,3,40,100,10
+29,18/12/2023 21:40:12,RVCE,Female,Non Veg,Biryani,Aerated beverages,5,1,80,150,6
+30,18/12/2023 21:40:14,RVCE,Female,Veg,Fast food,Tea/coffee,4,4,20,50,5
+31,18/12/2023 21:41:09,RVCE,Male,Non Veg,Biryani,Aerated beverages,2,3,140,100,8
+32,18/12/2023 21:42:29,RVU,Female,Non Veg,Biryani,Fruit juice,4,1,60,90,4
+33,18/12/2023 21:43:02,RVU,Female,Non Veg,Fast food,Tea/coffee,1,4,80,90,4
+34,18/12/2023 21:43:27,RVU,Male,Veg,South Indian,Tea/coffee,4,4,40,70,6
+35,18/12/2023 21:45:12,RVU,Male,Veg,Chaats,Energy drinks,4,4,60,170,20
+36,18/12/2023 21:45:27,RVU,Female,Veg,Chinese,Chia seed juice,3,4,40,60,4
+37,18/12/2023 21:47:01,RVU,Male,Non Veg,Fast food,Aerated beverages,2,2,80,80,11
+38,18/12/2023 21:47:57,RVCE,Male,Non Veg,South Indian,Tea/coffee,5,5,20,50,10
+39,18/12/2023 21:48:20,RVU,Male,Veg,North Indian,Fruit juice,4,4,30,60,7
+40,18/12/2023 21:48:52,RVU,Male,Non Veg,Fast food,Energy drinks,2,4,90,80,10
+41,18/12/2023 21:49:26,RVU,Male,Veg,South Indian,Aerated beverages,2,3,60,80,4
+42,18/12/2023 21:50:35,RVU,Female,Veg,Fast food,Energy drinks,3,3,70,50,4
+43,18/12/2023 21:50:42,RVU,Male,Non Veg,Biryani,Tea/coffee,3,3,120,170,10
+44,18/12/2023 21:50:42,RVCE,Female,Non Veg,South Indian,Fruit juice,3,3,30,70,4
+45,18/12/2023 21:50:51,RVCE,Female,Veg,North Indian,Fruit juice,3,3,110,250,6
+46,18/12/2023 21:51:30,RVCE,Male,Veg,North Indian,Aerated beverages,4,2,60,190,16
+47,18/12/2023 21:52:50,RVCE,Male,Non Veg,North Indian,Aerated beverages,3,2,120,110,11
+48,18/12/2023 21:53:45,RVCE,Male,Non Veg,Fast food,Fruit juice,3,2,20,90,8
+49,18/12/2023 21:56:01,RVCE,Male,Veg,Chinese,Tea/coffee,3,3,100,250,7
+50,18/12/2023 21:56:08,RVCE,Female,Non Veg,Fast food,Tea/coffee,4,4,70,190,4
+51,18/12/2023 21:56:30,RVU,Female,Non Veg,Chinese,Chia seed juice,3,4,40,130,6
+52,18/12/2023 21:58:00,RVU,Female,Non Veg,Biryani,Chia seed juice,3,3,100,270,5
+53,18/12/2023 21:58:14,RVCE,Male,Veg,Chaats,Energy drinks,3,3,20,90,10
+54,18/12/2023 21:58:53,RVCE,Male,Veg,North Indian,Fruit juice,2,1,40,50,7
+55,18/12/2023 22:00:25,RVU,Male,Veg,North Indian,Chia seed juice,3,4,90,140,9
+56,18/12/2023 22:01:15,RVU,Male,Veg,South Indian,Tea/coffee,3,2,60,100,14
+57,18/12/2023 22:07:47,RVCE,Male,Non Veg,Fast food,Fruit juice,4,3,120,80,7
+58,18/12/2023 22:11:30,RVCE,Male,Non Veg,South Indian,Tea/coffee,4,3,120,120,6
+59,18/12/2023 22:15:13,RVU,Male,Non Veg,Chinese,Fruit juice,3,4,120,190,13
+60,18/12/2023 22:22:46,RVU,Male,Veg,North Indian,Fruit juice,3,3,20,90,9
+61,18/12/2023 22:23:15,RVU,Male,Non Veg,Biryani,Energy drinks,3,4,50,50,13
+62,18/12/2023 22:24:17,RVU,Male,Veg,North Indian,Tea/coffee,3,3,80,90,10
+63,18/12/2023 22:26:03,RVCE,Male,Non Veg,Biryani,Fruit juice,5,5,50,120,4
+64,18/12/2023 22:26:38,RVU,Female,Veg,Fast food,Tea/coffee,3,4,100,70,6
+65,18/12/2023 22:51:24,RVU,Female,Veg,Chaats,Chia seed juice,3,3,40,60,6
+66,18/12/2023 22:57:23,RVU,Male,Non Veg,Fast food,Energy drinks,2,1,40,340,10
+67,18/12/2023 23:12:18,RVCE,Male,Non Veg,South Indian,Fruit juice,5,3,50,60,10
+68,19/12/2023 00:00:51,RVU,Male,Non Veg,Biryani,Tea/coffee,5,1,30,60,4
+69,19/12/2023 00:27:06,RVU,Female,Non Veg,Biryani,Aerated beverages,3,4,200,240,5
+70,19/12/2023 00:33:22,RVU,Male,Veg,South Indian,Tea/coffee,4,3,110,210,15
+71,19/12/2023 00:42:25,RVU,Male,Veg,Fast food,Fruit juice,3,3,40,80,5
+72,19/12/2023 00:45:50,RVU,Male,Veg,Biryani,Chia seed juice,3,4,100,110,10
+73,19/12/2023 00:48:26,RVU,Male,Non Veg,Fast food,Chia seed juice,3,3,130,320,19
+74,19/12/2023 02:00:26,RVU,Male,Veg,Chaats,Fruit juice,3,4,40,90,9
+75,19/12/2023 02:24:53,RVCE,Female,Veg,North Indian,Aerated beverages,1,1,20,50,5
+76,19/12/2023 07:25:01,RVCE,Male,Non Veg,Chinese,Tea/coffee,5,4,30,90,4
+77,19/12/2023 07:29:20,RVU,Female,Veg,Fast food,Chia seed juice,3,2,80,160,4
+78,19/12/2023 07:52:37,RVU,Male,Non Veg,Fast food,Energy drinks,4,3,70,130,10
+79,19/12/2023 08:00:54,RVU,Female,Non Veg,South Indian,Energy drinks,4,5,50,120,4
+80,19/12/2023 08:07:45,RVCE,Female,Non Veg,Chinese,Tea/coffee,3,2,110,160,5
+81,19/12/2023 08:16:17,RVU,Male,Non Veg,Biryani,Fruit juice,3,3,20,140,6
+82,19/12/2023 08:19:58,RVU,Female,Veg,Chaats,Tea/coffee,3,3,30,90,7
+83,19/12/2023 08:37:37,RVU,Female,Veg,Chinese,Aerated beverages,4,3,70,70,6
+84,19/12/2023 08:44:06,RVU,Male,Non Veg,Biryani,Fruit juice,5,5,30,90,4
+85,19/12/2023 08:44:33,RVU,Male,Veg,Fast food,Aerated beverages,3,4,190,160,4
+86,19/12/2023 08:45:21,RVU,Male,Veg,South Indian,Fruit juice,3,5,40,80,8
+87,19/12/2023 08:58:15,RVU,Female,Veg,South Indian,Fruit juice,4,2,20,90,6
+88,19/12/2023 09:02:37,RVU,Female,Non Veg,South Indian,Fruit juice,3,3,20,70,6
+89,19/12/2023 09:27:20,RVU,Male,Veg,Biryani,Fruit juice,4,3,60,50,15
+90,19/12/2023 09:28:59,RVU,Female,Non Veg,Fast food,Energy drinks,4,4,100,250,4
+91,19/12/2023 10:45:14,RVU,Female,Veg,North Indian,Fruit juice,4,4,40,90,5
+92,19/12/2023 10:46:37,RVU,Male,Non Veg,Biryani,Aerated beverages,3,2,70,60,4
+93,19/12/2023 10:46:53,RVU,Male,Veg,North Indian,Chia seed juice,4,3,30,50,4
+94,19/12/2023 10:47:03,RVU,Female,Veg,Fast food,Energy drinks,5,5,20,80,4
+95,19/12/2023 10:47:09,RVU,Female,Non Veg,Fast food,Fruit juice,4,4,70,130,8
+96,19/12/2023 10:47:21,RVU,Male,Non Veg,North Indian,Tea/coffee,2,4,40,80,5
+97,19/12/2023 10:47:33,RVU,Female,Non Veg,Chaats,Fruit juice,4,3,30,50,5
+98,19/12/2023 10:47:34,RVU,Female,Veg,Chinese,Aerated beverages,2,1,20,90,8
+99,19/12/2023 10:51:35,RVU,Male,Veg,North Indian,Chia seed juice,2,4,90,90,9
+100,19/12/2023 10:52:17,RVU,Female,Veg,Chinese,Chia seed juice,4,3,50,150,7
+101,19/12/2023 10:53:37,RVU,Female,Non Veg,Chinese,Aerated beverages,3,2,20,60,4
+102,19/12/2023 10:57:02,RVU,Male,Non Veg,Fast food,Aerated beverages,4,3,80,50,8
+103,19/12/2023 11:02:30,RVU,Female,Non Veg,Biryani,Aerated beverages,3,5,60,170,7
+104,19/12/2023 11:08:02,RVU,Male,Non Veg,Chinese,Fruit juice,4,3,40,150,5
+105,19/12/2023 11:08:03,RVU,Female,Veg,Chaats,Tea/coffee,2,1,20,80,4
+106,19/12/2023 11:15:07,RVU,Female,Non Veg,Biryani,Aerated beverages,3,2,60,190,7
+107,19/12/2023 11:17:48,RVU,Male,Veg,North Indian,Tea/coffee,3,4,200,190,12
+108,19/12/2023 11:18:00,RVU,Female,Veg,Chinese,Aerated beverages,2,2,20,70,8
+109,19/12/2023 11:19:10,RVU,Female,Non Veg,Biryani,Chia seed juice,4,2,90,50,4
+110,19/12/2023 11:20:59,RVU,Male,Non Veg,Chinese,Aerated beverages,4,3,80,140,15
+111,19/12/2023 11:27:26,RVU,Female,Non Veg,North Indian,Tea/coffee,4,2,70,60,5
+112,19/12/2023 11:28:52,RVU,Female,Veg,South Indian,Energy drinks,3,4,80,70,6
+113,19/12/2023 11:29:01,RVU,Male,Veg,South Indian,Tea/coffee,3,4,30,90,6
+114,19/12/2023 11:37:05,RVU,Female,Veg,North Indian,Chia seed juice,1,4,30,120,7
+115,19/12/2023 11:45:55,RVU,Female,Veg,Fast food,Tea/coffee,4,3,30,70,7
+116,19/12/2023 11:55:26,RVU,Male,Non Veg,North Indian,Fruit juice,4,3,160,120,9
+117,19/12/2023 11:58:22,RVU,Male,Non Veg,Chinese,Fruit juice,5,2,60,150,5
+118,19/12/2023 12:08:48,RVU,Female,Veg,South Indian,Energy drinks,4,2,40,60,4
+119,19/12/2023 12:58:46,RVU,Female,Non Veg,Biryani,Aerated beverages,4,3,90,90,8
+120,19/12/2023 13:19:02,RVU,Female,Veg,Chaats,Aerated beverages,4,2,30,80,5
+121,19/12/2023 13:51:51,RVU,Female,Veg,South Indian,Tea/coffee,3,3,30,90,5
+122,19/12/2023 14:02:52,RVU,Female,Non Veg,Biryani,Fruit juice,4,2,90,60,4
+123,19/12/2023 14:27:00,RVU,Male,Veg,Fast food,Energy drinks,3,3,40,60,15
+124,19/12/2023 14:28:55,RVCE,Female,Veg,Chinese,Tea/coffee,4,4,20,70,4
+125,19/12/2023 14:30:54,RVCE,Female,Veg,Fast food,Chia seed juice,3,4,40,70,7
+126,19/12/2023 14:31:17,RVCE,Female,Non Veg,Chinese,Tea/coffee,5,4,20,60,5
+127,19/12/2023 14:34:16,RVCE,Female,Non Veg,Fast food,Tea/coffee,5,5,30,160,4
+128,19/12/2023 14:34:36,RVCE,Male,Veg,North Indian,Tea/coffee,3,5,30,90,5
+129,19/12/2023 14:37:10,RVCE,Female,Veg,Chinese,Fruit juice,4,4,40,70,8
+130,19/12/2023 14:37:31,RVU,Female,Non Veg,South Indian,Fruit juice,4,4,200,200,4
+131,19/12/2023 14:38:42,RVCE,Male,Veg,North Indian,Tea/coffee,3,4,40,80,10
+132,19/12/2023 14:40:46,RVCE,Female,Non Veg,Fast food,Fruit juice,3,4,20,60,6
+133,19/12/2023 14:40:50,RVCE,Female,Veg,South Indian,Chia seed juice,2,3,20,90,7
+134,19/12/2023 14:46:15,RVCE,Male,Veg,Fast food,Aerated beverages,4,3,60,70,7
+135,19/12/2023 14:46:31,RVU,Male,Non Veg,Chaats,Aerated beverages,3,3,50,90,12
+136,19/12/2023 14:47:45,RVCE,Male,Veg,Biryani,Chia seed juice,3,4,50,160,8
+137,19/12/2023 14:51:10,RVCE,Male,Non Veg,Biryani,Fruit juice,4,3,80,130,16
+138,19/12/2023 14:53:34,RVCE,Male,Veg,North Indian,Tea/coffee,3,4,40,80,17
+139,19/12/2023 14:59:54,RVCE,Male,Veg,Chaats,Fruit juice,3,4,40,80,7
+140,19/12/2023 15:01:33,RVCE,Male,Non Veg,Fast food,Aerated beverages,5,5,40,60,12
+141,19/12/2023 15:05:19,RVU,Male,Non Veg,North Indian,Fruit juice,2,4,40,50,10
+142,19/12/2023 15:07:05,RVCE,Male,Veg,South Indian,Fruit juice,3,3,30,60,10
+143,19/12/2023 15:15:14,RVCE,Female,Veg,Chaats,Aerated beverages,3,4,40,60,8
+144,19/12/2023 15:29:31,RVU,Male,Veg,Biryani,Fruit juice,4,3,20,60,4
+145,19/12/2023 16:05:03,RVCE,Male,Veg,North Indian,Fruit juice,5,5,40,90,9
+146,19/12/2023 16:12:13,RVCE,Male,Veg,Fast food,Energy drinks,1,1,170,320,17
+147,19/12/2023 16:15:17,RVCE,Male,Veg,North Indian,Energy drinks,2,4,50,110,8
+148,19/12/2023 16:40:30,RVCE,Male,Veg,North Indian,Aerated beverages,4,5,30,50,4
+149,19/12/2023 16:53:27,RVCE,Male,Veg,Chaats,Fruit juice,3,2,50,60,10
+150,19/12/2023 17:01:36,RVCE,Male,Veg,Chinese,Fruit juice,4,4,20,70,14
+151,19/12/2023 17:48:27,RVCE,Male,Non Veg,Chinese,Chia seed juice,3,1,20,80,4
+152,19/12/2023 17:48:41,RVCE,Male,Veg,South Indian,Tea/coffee,4,3,70,80,4
+153,19/12/2023 18:40:45,RVCE,Female,Veg,Chinese,Tea/coffee,2,4,20,50,7
+154,19/12/2023 18:52:52,RVU,Female,Veg,Fast food,Tea/coffee,4,4,40,50,7
+155,19/12/2023 18:58:09,RVCE,Male,Veg,Fast food,Fruit juice,4,4,30,50,8
+156,19/12/2023 20:21:34,RVCE,Female,Non Veg,Biryani,Fruit juice,3,3,20,50,6
